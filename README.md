@@ -4,11 +4,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kssampson.kssampson"/> <span><img src="https://img.shields.io/github/followers/kssampson?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a Junior Developer student with Galvanize
-
-- 🌱 I’m currently learning intermidiate full stack devopment at Galvanize.
+- 🌱 I’m currently learning full stack devopment after completing an intensive study program.
 - 👯 I’m looking to collaborate on a multitude of projects with anyone.
-- 💬 Ask me about anything
+- 💬 Ask me about anything!
 
 ## ✉ Find me on:
 <br />
@@ -40,9 +38,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=kssampson&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kssampson&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kssampson&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kssampson&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssampson&hide=php&theme=tokyonight" />
-</a> -->
+</a>
 </div>
 
 
