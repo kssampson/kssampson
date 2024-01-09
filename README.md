@@ -37,10 +37,10 @@
 <h3>🏆 My Github Stats:</h3>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=LukeLarson2&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=kssampson&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kssampson&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeLarson2&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kssampson&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssampson&hide=php&theme=tokyonight" />
 </a>
 </div>
